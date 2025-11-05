@@ -9,5 +9,40 @@
     <link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/applications/industrial" />
     <link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/applications/industrial" />
   </url>
-
+<url>
+<loc>https://dev.allegromicro.com/en/itwtesting/ntest</loc>
+<lastmod>2025-09-11T05:54:25+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+<link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/itwtesting/ntest"/>
+<link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/itwtesting/ntest"/>
+<link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/itwtesting/ntest"/>
+</url>
+<url>
+<loc>https://dev.allegromicro.com/en/automation/announcement/announcement-colors</loc>
+<lastmod>2025-09-09T10:14:37+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+<link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/automation/announcement/announcement-colors"/>
+<link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/automation/announcement/announcement-colors"/>
+<link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/automation/announcement/announcement-colors"/>
+</url>
+<url>
+<loc>https://dev.allegromicro.com/ja-jp/automation/announcement/announcement-colors</loc>
+<lastmod>2025-09-09T10:14:37+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+<link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/automation/announcement/announcement-colors"/>
+<link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/automation/announcement/announcement-colors"/>
+<link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/automation/announcement/announcement-colors"/>
+</url>
+<url>
+<loc>https://dev.allegromicro.com/ja-jp/allegrotest/test3</loc>
+<lastmod>2025-08-19T16:33:43+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+<link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/allegrotest/test3"/>
+<link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/allegrotest/test3"/>
+<link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/allegrotest/test3"/>
+</url>
 </urlset>
