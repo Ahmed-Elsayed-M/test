@@ -5,8 +5,8 @@
     <lastmod>2026-01-12T20:25:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
-    <link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/applications/industrial" />
-    <link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/applications/industrial" />
+    <link rel="alternate" hreflang="ja-jp" href="https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors/acs37002" />
+    <link rel="alternate" hreflang="zh-cn" href="https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors/acs37002" />
     <link rel="alternate" hreflang="x-default" href="https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors/acs37002" />
   </url>
 <url>
@@ -47,3 +47,4 @@
 </url>
 
 </urlset>
+
