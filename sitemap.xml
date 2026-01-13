@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dev.allegromicro.com/en/applications/industrial</loc>
-    <lastmod>2024-06-27T20:25:35+00:00</lastmod>
+    <loc>https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors/acs37002</loc>
+    <lastmod>2026-01-12T20:25:35+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
     <link rel="alternate" hreflang="ja-jp" href="https://dev.allegromicro.com/ja-jp/applications/industrial" />
     <link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/applications/industrial" />
-    <link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/applications/industrial" />
+    <link rel="alternate" hreflang="x-default" href="https://www.allegromicro.com/en/products/sense/current-sensor-ics/integrated-current-sensors/acs37002" />
   </url>
 <url>
 <loc>https://dev.allegromicro.com/en/itwtesting/ntest</loc>
@@ -45,4 +45,5 @@
 <link rel="alternate" hreflang="zh-cn" href="https://dev.allegromicro.com/zh-cn/allegrotest/test3"/>
 <link rel="alternate" hreflang="x-default" href="https://dev.allegromicro.com/en/allegrotest/test3"/>
 </url>
+
 </urlset>
